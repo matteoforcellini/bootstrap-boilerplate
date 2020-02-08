@@ -1,0 +1,10 @@
+// Import bootstrap overrides.
+@import 'partials/bootstrap-overrides';
+
+// Import bootstrap.
+@import 'bootstrap/scss/bootstrap';
+
+// Padding top with same height as the navbar.
+body {
+  padding-top: 56px;
+}

@@ -1,0 +1,40 @@
+/**
+ * Override bootstrap settings.
+ */
+$enable-rounded: true;
+$enable-shadows: true;
+$enable-gradients: false;
+$enable-prefers-reduced-motion-media-query: true;
+$enable-grid-classes: true;
+$enable-caret: true;
+$enable-pointer-cursor-for-buttons: true;
+$enable-print-styles: true;
+$enable-responsive-font-sizes: true;
+$enable-validation-icons: true;
+$enable-deprecation-messages: true;
+
+/**
+ * Override bootstrap spacing.
+ */
+$spacer: 1rem;
+
+/**
+ * Override bootstrap typography.
+ */
+$font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-size-base: 16;
+$line-height-base: 1.428571429;
+
+/**
+ * Override bootstrap colors.
+ */
+$body-bg: #f0f0f0;
+$body-color: #111111;
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #343a40;
